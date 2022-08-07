@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajbros
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning 11th Standard
+- 🌱 I’m currently learning 12th Standard
 - 💞️ I’m looking to collaborate on Google
 
 <!---
